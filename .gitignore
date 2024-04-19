@@ -1,0 +1,7 @@
+venv*
+_*
+database.db
+*log
+game.json
+*png
+*zip
